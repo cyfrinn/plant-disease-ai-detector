@@ -1,7 +1,5 @@
 # plant-disease-ai-detector
 
-# Plant Disease AI Detector
-
 This project uses machine learning to detect plant bacterial diseases based on images. It features a trained model that classifies diseases affecting crops like tomatoes, potatoes, and peppers. A simple graphical user interface (GUI) built with Tkinter allows users to upload images and view predictions.
 
 ## Features
