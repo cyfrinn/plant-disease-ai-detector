@@ -25,6 +25,7 @@ python app.py
 2. Upload an image of a plant leaf and click on "Predict Disease" to get the result.
 
 ## Model
+You can download the trained model from [[Google Drive here](https://drive.google.com/uc?export=download&id=1q4yWGzhpbB8tfqx-vFcxQdtRiBUvK853)].
 
 The model is trained to detect bacterial diseases in plants like:
 - Pepper Bacterial Spot
