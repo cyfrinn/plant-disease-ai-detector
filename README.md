@@ -21,7 +21,7 @@ cd plant-disease-ai-detector
 ## Usage
 
 1. Run the application:
-python app.py
+`python app.py`
 
 2. Upload an image of a plant leaf and click on "Predict Disease" to get the result.
 
